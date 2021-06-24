@@ -4,8 +4,8 @@ import hgtk
 from tqdm.auto import tqdm
 
 from kiwipiepy import Kiwi
-from dictionary import informaldic, formaldic, abnormaldic
-from utils import Utils
+from .dictionary import informaldic, formaldic, abnormaldic
+from .utils import Utils
 
 
 class Changer(object):
