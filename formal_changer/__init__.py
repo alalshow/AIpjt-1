@@ -1,3 +1,3 @@
-from .changer import *
 from .dictionary import *
 from .utils import *
+from .changer import *
