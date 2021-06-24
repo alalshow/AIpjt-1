@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='Changer',
+    name='formal_changer',
     version='0.0.1',
     description='formal text change test Forked from Alpjt-1',
     url='https://github.com/alalshow/AIpjt-1.git',
     author='alalshow',
     author_email='alalshow211@gmail.com',
     license='MIT',
-    packages=['Changer'],
+    packages=['formal_changer'],
     zip_safe=False,
     install_requires=[
         'hgtk==0.1.3',
