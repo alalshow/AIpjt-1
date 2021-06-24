@@ -1,7 +1,3 @@
-""" __auther__ = Sanhee Park 
-    ___version__ = 1.0.0 
-"""
-
 def informaldic():
     return {
         ('예요', 'EF') : ('야', 'EF'),
