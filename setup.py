@@ -8,7 +8,7 @@ setup(
     author='alalshow',
     author_email='alalshow211@gmail.com',
     license='MIT',
-    packages=['formal-changer'],
+    packages=['formal_changer'],
     zip_safe=False,
     install_requires=[
         'hgtk==0.1.3',
